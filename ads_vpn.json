@@ -33,6 +33,10 @@
         "qu_native_banner_link": "https://tetapose.com/tnart.in/NativeBanner/",
         "qu_native_banner_size": "14",
         "qu_native_link": "https://tetapose.com/tnart.in/Native/",
-        "qu_native_size": "28"
+        "qu_native_size": "28",
+        "ads_main_bg": "#000000",
+        "ads_btn_bg": "#ffffff",
+        "ads_text": "#ffffff",
+        "ads_btn_text": "#000000"
     }
 }
